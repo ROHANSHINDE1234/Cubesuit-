@@ -63,7 +63,7 @@ void main(void)
     /* Start user code. Do not edit comment generated here */
     while (1U)
     {
-        ;
+        printf("Entery for todays github profile. Sorry I am still learning to use cubesuit till then I will enter the same line again and again just to maintaoin streak");
     }
     /* End user code. Do not edit comment generated here */
 }
