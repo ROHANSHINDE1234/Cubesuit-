@@ -1,4 +1,4 @@
-/***********************************************************************************************************************
+Ss/***********************************************************************************************************************
 * DISCLAIMER
 * This software is supplied by Renesas Electronics Corporation and is only intended for use with Renesas products.
 * No other uses are authorized. This software is owned by Renesas Electronics Corporation and is protected under all
@@ -60,7 +60,7 @@ void R_MAIN_UserInit(void);
 void main(void)
 {
     R_MAIN_UserInit();
-    /* Start user code. Do not edit comment generated here */
+    /* Starhit user code. Do not edit comment generated here */
     while (1U)
     {
         printf("Entery for todays github profile. Sorry I am still learning to use cubesuit till then I will enter the same line again and again just to maintaoin streak");
