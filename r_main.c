@@ -1,4 +1,4 @@
-7Ss/***********************************************************************************************************************
+/***********************************************************************************************************************
 * DISCLAIMER
 * This software is supplied by Renesas Electronics Corporation and is only intended for use with Renesas products.
 * No other uses are authorized. This software is owned by Renesas Electronics Corporation and is protected under all
@@ -43,7 +43,7 @@ Includes
 /* Start user code for include. Do not edit comment generated here */
 /* End user code. Do not edit comment generated here */
 #include "r_cg_userdefine.h"
-#include "codechef. h"//hometown leave 
+#include "codechef. h"//hometown leave hometown leave 
 /***********************************************************************************************************************
 Global variables and functions
 ***********************************************************************************************************************/
